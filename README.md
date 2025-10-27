@@ -9,9 +9,9 @@ Includes:
 - eFax Submission Placeholder
 - Tabs for easy navigation
 
-# EhicaCareAI – AI-Powered Clinical Workflow with a Human Touch
+# EthicaCareAI – AI-Powered Clinical Workflow with a Human Touch
 
-**EhicaCareAI Saas** is a HIPAA-secure, AI-enhanced SaaS prototype designed for 
+**EthicaCareAI Saas** is a HIPAA-secure, AI-enhanced SaaS prototype designed for 
 **hospital Case Managers, Utilization Review nurses, and Physicians**
 working across fast-paced healthcare environments. 
 Built with ethical AI and real clinical insight, 
@@ -19,7 +19,7 @@ this platform bridges automation with compassion.
 
 ## What It Does
 
- EhicaCareAI  uses **secure cloud services + Large Language Models (LLMs)** 
+ EthicaCareAI  uses **secure cloud services + Large Language Models (LLMs)** 
 -Hosted on secure, HIPAA-compliant cloud infrastructure
 - Designed for multi-location, multi-device access
 - Compatible with cloud-based EMRs, imaging tools, and AI platforms
@@ -39,7 +39,7 @@ this platform bridges automation with compassion.
 
 ## Designed by Nurses & Docs, for Nurses & Docs
 
- EhicaCareAI isn’t another tech-first tool. It was designed with real frontline insight — created to serve:
+ EthicaCareAI isn’t another tech-first tool. It was designed with real frontline insight — created to serve:
 - **Utilization Review (UR) Nurses**
 - **Case Managers**
 - **Hospitalists & Specialists**
