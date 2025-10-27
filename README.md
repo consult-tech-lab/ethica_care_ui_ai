@@ -88,7 +88,7 @@ this platform bridges automation with compassion.
 This project is currently in prototype phase and welcomes healthcare input, testers, and secure API collaborators.
 
  Contact: LinkedIn   
-UX Research & Ethical Design by: *Joanne, Clinical Consultant & Digital Health Designer*
+UX Research & Ethical Design by: *Joanne, Digital Healthcare Consultant UX Designer*
 
 > “At EthicCareAI, we don’t just automate — we amplify ethical care.”
 
