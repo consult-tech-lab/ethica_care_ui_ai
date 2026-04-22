@@ -92,4 +92,4 @@ UX Research & Ethical Design by: *Joanne, Digital Healthcare Consultant UX Desig
 
 > “At EthicCareAI, we don’t just automate — we amplify ethical care.”
 
-
+** I create healthcare apps focused on clinicians to minimize administrative tasks and free up time for patient care, using rapid prototyping with modern no-code tools and user-friendly design. ~Joanne Landais**
